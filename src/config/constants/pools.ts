@@ -5,10 +5,10 @@ const pools: PoolConfig[] = [
     sousId: 0,
     tokenName: '24K',
     stakingTokenName: QuoteToken.x24k,
-    stakingTokenAddress: '0x53a16A336fda001d5560348466C8773e0B18c1c7',
+    stakingTokenAddress: '0x8bbcdab057289c9d84d7f36ef45b70276238797a',
     contractAddress: {
       97: '0xd3af5fe61dbaf8f73149bfcfa9fb653ff096029a',
-      56: '0xe4238DA8873DeB16107e70661Cb61B55492B1103',
+      56: '0x5646A115b7dB6ca205B44340E7163e853958E48c',
     },
     poolCategory: PoolCategory.CORE,
     projectLink: 'https://24kswap.finance/',
