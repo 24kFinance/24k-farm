@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Heading, Text, BaseLayout } from '24testui'
+import { Heading, Text, BaseLayout } from 'cbcuikit'
 import useI18n from 'hooks/useI18n'
 import Page from 'components/layout/Page'
 import FarmStakingCard from './components/FarmStakingCard'
@@ -60,7 +60,7 @@ const Home: React.FC = () => {
     <Page>
       <Hero>
         <Heading as="h1" size="xl" mb="24px" color="secondary">
-          {TranslateString(576, '24K Swap')}
+          {TranslateString(576, 'CBC Swap')}
         </Heading>
         <Text>{TranslateString(578, 'The gold of the Binance Smart Chain.')}</Text>
       </Hero>

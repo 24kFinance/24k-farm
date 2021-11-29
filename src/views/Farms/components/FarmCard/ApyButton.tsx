@@ -1,6 +1,6 @@
 import React from 'react'
 import BigNumber from 'bignumber.js'
-import { CalculateIcon, IconButton, useModal } from '24testui'
+import { CalculateIcon, IconButton, useModal } from 'cbcuikit'
 import { Address } from 'config/constants/types'
 import ApyCalculatorModal from './ApyCalculatorModal'
 

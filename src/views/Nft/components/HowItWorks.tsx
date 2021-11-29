@@ -1,7 +1,7 @@
 // @ts-nocheck
 import React from 'react'
 import styled from 'styled-components'
-import { Button, Heading, Text as UIKitText, ArrowForwardIcon } from '24testui'
+import { Button, Heading, Text as UIKitText, ArrowForwardIcon } from 'cbcuikit'
 import useI18n from 'hooks/useI18n'
 import Container from 'components/layout/Container'
 

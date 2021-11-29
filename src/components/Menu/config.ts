@@ -1,4 +1,4 @@
-import { MenuEntry } from '24testui'
+import { MenuEntry } from 'cbcuikit'
 
 const config: MenuEntry[] = [
   {
@@ -12,11 +12,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'http://swap.24kswap.finance/#/swap',
+        href: 'https://swap.cryptobanks.biz/',
       },
       {
         label: 'Liquidity',
-        href: 'http://swap.24kswap.finance/#/pool',
+        href: 'https://swap.cryptobanks.biz/liquidity',
       },
     ],
   },
@@ -24,11 +24,6 @@ const config: MenuEntry[] = [
     label: 'Mine',
     icon: 'FarmIcon',
     href: '/farms',
-  },
-  {
-    label: 'Pools',
-    icon: 'PoolIcon',
-    href: '/pools',
   },
   // {
   //  label: 'poolss',
@@ -56,14 +51,14 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Github',
-        href: 'https://github.com/24kFinance',
+        href: 'https://github.com/cbcFinance',
       },
     ],
   },
   {
     label: 'Audit',
     icon: 'AuditIcon',
-    href: 'https://24kswap.finance/file/24k-swap.pdf',
+    href: 'https://cbcswap.finance/file/cbc-swap.pdf',
   },
 ]
 

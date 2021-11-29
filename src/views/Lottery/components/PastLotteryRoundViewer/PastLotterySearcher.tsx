@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import styled from 'styled-components'
-import { Text, Input, Button } from '24testui'
+import { Text, Input, Button } from 'cbcuikit'
 import useI18n from 'hooks/useI18n'
 
 interface PastLotterySearcherProps {

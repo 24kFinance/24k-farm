@@ -1,5 +1,5 @@
 import React from 'react'
-import { Card, CardBody, Heading, Text } from '24testui'
+import { Card, CardBody, Heading, Text } from 'cbcuikit'
 import BigNumber from 'bignumber.js/bignumber'
 import styled from 'styled-components'
 import { Timeline } from 'react-twitter-widgets'
@@ -35,7 +35,7 @@ const TwitterCard = () => {
         <Timeline
           dataSource={{
             sourceType: 'profile',
-            screenName: '24Kswap',
+            screenName: 'Cryptobanks9',
           }}
           options={{
             height: '300',

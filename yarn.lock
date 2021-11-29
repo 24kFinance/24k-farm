@@ -4921,6 +4921,17 @@ caseless@~0.12.0:
   resolved "https://registry.yarnpkg.com/caseless/-/caseless-0.12.0.tgz#1b681c21ff84033c826543090689420d187151dc"
   integrity sha1-G2gcIf+EAzyCZUMJBolCDRhxUdw=
 
+cbcuikit@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/cbcuikit/-/cbcuikit-1.0.3.tgz#ee6bf8bfb272d6a86492d4f1d75d7a3d94e9f1c5"
+  integrity sha512-EbMfBgnq0j88pNKrazowFT12yPLfkdYhwJ/Rer66gpMRY0+fhw/poNfUzwyh+O9qq+RXq1yQdh7JOvv/0V2DRg==
+  dependencies:
+    "@types/lodash" "^4.14.162"
+    "@types/styled-system" "^5.1.10"
+    lodash "^4.17.20"
+    react-transition-group "^4.4.1"
+    styled-system "^5.1.5"
+
 chalk@2.4.2, chalk@^2.0.0, chalk@^2.4.1, chalk@^2.4.2:
   version "2.4.2"
   resolved "https://registry.yarnpkg.com/chalk/-/chalk-2.4.2.tgz#cd42541677a54333cf541a49108c1432b44c9424"

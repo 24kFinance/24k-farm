@@ -1,5 +1,5 @@
 import React from 'react'
-import { Card, CardBody, Heading, Text } from '24testui'
+import { Card, CardBody, Heading, Text } from 'cbcuikit'
 import useI18n from 'hooks/useI18n'
 import CardContent from './CardContent'
 

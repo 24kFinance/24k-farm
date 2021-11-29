@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Text, Heading, BaseLayout, Button, LinkExternal, Flex, Image } from '24testui'
+import { Text, Heading, BaseLayout, Button, LinkExternal, Flex, Image } from 'cbcuikit'
 import { ifosConfig } from 'config/constants'
 import useI18n from 'hooks/useI18n'
 import IfoCard from './components/IfoCard'
@@ -52,10 +52,10 @@ const Ifo = () => {
             <li>{TranslateString(598, 'Get CAKE-BNB LP tokens by adding CAKE and BNB liquidity')}</li>
           </List>
           <Flex mb="16px">
-            <LinkExternal href="https://swap.24kswap.finance/#/swap" mr="16px">
+            <LinkExternal href="https://swap.cbcswap.finance/#/swap" mr="16px">
               {TranslateString(999, 'Buy cake')}
             </LinkExternal>
-            <LinkExternal href="https://swap.24kswap.finance/#/add/ETH/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82">
+            <LinkExternal href="https://swap.cbcswap.finance/#/add/ETH/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82">
               {TranslateString(999, 'Get LP tokens')}
             </LinkExternal>
           </Flex>
@@ -90,7 +90,7 @@ const Ifo = () => {
             </Text>
             <Button
               as="a"
-              href="https://t.me/Founder_24KSwap"
+              href="https://t.me/Founder_CBCSwap"
               external
             >
               {TranslateString(516, 'Apply to launch')}

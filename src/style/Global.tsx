@@ -1,6 +1,6 @@
 import { createGlobalStyle } from 'styled-components'
 // eslint-disable-next-line import/no-unresolved
-import { PancakeTheme } from '24testui'
+import { PancakeTheme } from 'cbcuikit'
 
 declare module 'styled-components' {
   /* eslint-disable @typescript-eslint/no-empty-interface */

@@ -1,6 +1,6 @@
 import React from 'react'
 import orderBy from 'lodash/orderBy'
-import { Card, CardBody, Heading } from '24testui'
+import { Card, CardBody, Heading } from 'cbcuikit'
 import Container from 'components/layout/Container'
 import nfts from 'config/constants/nfts'
 import NftGrid from './NftGrid'

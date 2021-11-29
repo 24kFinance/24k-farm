@@ -2,8 +2,8 @@
   {
     "inputs": [
       {
-        "internalType": "contract s24kToken",
-        "name": "_s24k",
+        "internalType": "contract scbcToken",
+        "name": "_scbc",
         "type": "address"
       },
       {
@@ -18,7 +18,7 @@
       },
       {
         "internalType": "uint256",
-        "name": "_s24kPerBlock",
+        "name": "_scbcPerBlock",
         "type": "uint256"
       },
       {
@@ -154,10 +154,10 @@
   },
   {
     "inputs": [],
-    "name": "s24k",
+    "name": "scbc",
     "outputs": [
       {
-        "internalType": "contract s24kToken",
+        "internalType": "contract scbcToken",
         "name": "",
         "type": "address"
       }
@@ -168,7 +168,7 @@
   },
   {
     "inputs": [],
-    "name": "s24kPerBlock",
+    "name": "scbcPerBlock",
     "outputs": [
       {
         "internalType": "uint256",
@@ -235,7 +235,7 @@
       },
       {
         "internalType": "uint256",
-        "name": "accs24kPerShare",
+        "name": "accscbcPerShare",
         "type": "uint256"
       },
       {
@@ -434,7 +434,7 @@
         "type": "address"
       }
     ],
-    "name": "pendings24k",
+    "name": "pendingscbc",
     "outputs": [
       {
         "internalType": "uint256",
@@ -545,7 +545,7 @@
     "inputs": [
       {
         "internalType": "uint256",
-        "name": "_s24kPerBlock",
+        "name": "_scbcPerBlock",
         "type": "uint256"
       }
     ],

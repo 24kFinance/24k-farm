@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Heading, Text, Flex } from '24testui'
+import { Heading, Text, Flex } from 'cbcuikit'
 
 interface IfoCardHeaderProps {
   ifoId: string

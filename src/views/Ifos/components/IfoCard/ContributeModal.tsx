@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import { useWallet } from '@binance-chain/bsc-use-wallet'
 import BigNumber from 'bignumber.js'
-import { Modal, Button, Flex, LinkExternal } from '24testui'
+import { Modal, Button, Flex, LinkExternal } from 'cbcuikit'
 import BalanceInput from 'components/Input/BalanceInput'
 import useTokenBalance from 'hooks/useTokenBalance'
 import { getFullDisplayBalance } from 'utils/formatBalance'
@@ -48,7 +48,7 @@ const ContributeModal: React.FC<Props> = ({ currency, contract, currencyAddress,
         </Button>
       </Flex>
       <LinkExternal
-        href="https://swap.24kswap.finance/#/add/ETH/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82"
+        href="https://swap.cbcswap.finance/#/add/ETH/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82"
         style={{ margin: 'auto' }}
       >
         {`Get ${currency}`}

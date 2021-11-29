@@ -1,7 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 import { useRouteMatch, Link } from 'react-router-dom'
-import { ButtonMenu, ButtonMenuItem } from '24testui'
+import { ButtonMenu, ButtonMenuItem } from 'cbcuikit'
 import useI18n from 'hooks/useI18n'
 
 const PoolTabButtons = () => {

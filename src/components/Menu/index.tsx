@@ -4,7 +4,7 @@ import { allLanguages } from 'config/localisation/languageCodes'
 import { LanguageContext } from 'contexts/Localisation/languageContext'
 import useTheme from 'hooks/useTheme'
 import { usePriceCakeBusd } from 'state/hooks'
-import { Menu as UikitMenu } from '24testui'
+import { Menu as UikitMenu } from 'cbcuikit'
 import config from './config'
 
 const Menu = (props) => {
@@ -25,7 +25,7 @@ const Menu = (props) => {
       setLang={setSelectedLanguage}
       cakePriceUsd={cakePriceUsd.toNumber()}
       links={config}
-      priceLink="https://swap.24kswap.finance/#/swap"
+      priceLink="https://swap.cbcswap.finance/#/swap"
       {...props}
     />
   )

@@ -1,6 +1,6 @@
 export default {
   cake: {
-    56: '0x8bbcdab057289c9d84d7f36ef45b70276238797a',
+    56: '0x69e71a53aae1d26a85d71a79562f4e39522d8cf3',
     97: '',
   },
   masterChef: {

@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { ChevronDownIcon, Text } from '24testui'
+import { ChevronDownIcon, Text } from 'cbcuikit'
 
 export interface DetailsButtonProps {
   onClick?: () => void

@@ -1,7 +1,7 @@
 // @ts-nocheck
 import React from 'react'
 import styled from 'styled-components'
-import { Button, Text } from '24testui'
+import { Button, Text } from 'cbcuikit'
 import useI18n from 'hooks/useI18n'
 import Page from 'components/layout/Page'
 import Container from 'components/layout/Container'
@@ -63,7 +63,7 @@ const ComingSoon = () => {
               )}
             </Text>
             <Text mb={3}>
-              <LiquidityLink href="https://swap.24kswap.finance/#/add/ETH/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82">
+              <LiquidityLink href="https://swap.cbcswap.finance/#/add/ETH/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82">
                 {TranslateString(506, 'Get CAKE-BNB LP >')}
               </LiquidityLink>
             </Text>
@@ -84,7 +84,7 @@ const ComingSoon = () => {
             </Text>
             <Button
               as="a"
-              href="https://t.me/Founder_24KSwap"
+              href="https://t.me/Founder_CBCSwap"
               target="_blank"
               rel="noopener noreferrer"
             >

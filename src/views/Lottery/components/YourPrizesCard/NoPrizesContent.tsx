@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Text, Button, useModal } from '24testui'
+import { Text, Button, useModal } from 'cbcuikit'
 import useI18n from 'hooks/useI18n'
 import useTickets from 'hooks/useTickets'
 import MyTicketsModal from '../TicketCard/UserTicketsModal'

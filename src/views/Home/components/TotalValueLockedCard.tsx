@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Card, CardBody, Heading, Skeleton, Text } from '24testui'
+import { Card, CardBody, Heading, Skeleton, Text } from 'cbcuikit'
 import useI18n from 'hooks/useI18n'
 import { useGetStats } from 'hooks/api'
 import { useTotalValue } from '../../../state/hooks'

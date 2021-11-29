@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Image, Button } from '24testui'
+import { Image, Button } from 'cbcuikit'
 import { CommunityTag } from 'components/Tags'
 import useI18n from 'hooks/useI18n'
 import Card from './Card'
@@ -49,7 +49,7 @@ const Coming: React.FC = () => {
         <Button
           variant="secondary"
           as="a"
-          href="https://t.me/Founder_24KSwap"
+          href="https://t.me/Founder_CBCSwap"
           external
           fullWidth
           mb="16px"
@@ -67,7 +67,7 @@ const Coming: React.FC = () => {
             </span>
             {TranslateString(384, 'Your Stake')}:
           </div>
-          <Value>??? 24K</Value>
+          <Value>??? CBC</Value>
         </DetailPlaceholder>
       </div>
       <Footer>

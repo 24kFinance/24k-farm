@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Text, Heading, Link, Image } from '24testui'
+import { Text, Heading, Link, Image } from 'cbcuikit'
 import useI18n from 'hooks/useI18n'
 
 const LayoutWrapper = styled.div`

@@ -27,8 +27,8 @@ export enum QuoteToken {
   'ETH' = 'ETH',
   'TWT' = 'TWT',
   'UST' = 'UST',
-  'x24k' = 'x24k',
-  '24k' = '24k',
+  'xcbc' = 'xcbc',
+  'cbc' = 'cbc',
 }
 
 export enum PoolCategory {

@@ -1,7 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 import orderBy from 'lodash/orderBy'
-import { Heading, Card, CardBody, Flex, ArrowForwardIcon } from '24testui'
+import { Heading, Card, CardBody, Flex, ArrowForwardIcon } from 'cbcuikit'
 import { NavLink } from 'react-router-dom'
 import pools from 'config/constants/pools'
 import { Pool } from 'state/types'
@@ -31,7 +31,7 @@ const EarnAssetCard = () => {
         <Heading color="contrast" size="lg">
           Earn
         </Heading>
-        <CardMidContent color="invertedContrast">24K</CardMidContent>
+        <CardMidContent color="invertedContrast">CBC</CardMidContent>
         <Flex justifyContent="space-between">
           <Heading color="contrast" size="lg">
           with BNB, BUSD, USDT and ETH

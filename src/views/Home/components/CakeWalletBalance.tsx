@@ -1,5 +1,5 @@
 import React from 'react'
-import { Text } from '24testui'
+import { Text } from 'cbcuikit'
 import { useWallet } from '@binance-chain/bsc-use-wallet'
 import useTokenBalance from 'hooks/useTokenBalance'
 import useI18n from 'hooks/useI18n'

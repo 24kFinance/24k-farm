@@ -75,7 +75,7 @@
     {
       "data": {
         "stringId": 304,
-        "text": "Total 24K burned since launch"
+        "text": "Total CBC burned since launch"
       }
     },
     {
@@ -123,7 +123,7 @@
     {
       "data": {
         "stringId": 320,
-        "text": "Stake LP tokens to earn 24K"
+        "text": "Stake LP tokens to earn CBC"
       }
     },
     {
@@ -153,7 +153,7 @@
     {
       "data": {
         "stringId": 334,
-        "text": "Every time you stake and unstake 24K tokens, the contract will automatically harvest 24K rewards for you!"
+        "text": "Every time you stake and unstake CBC tokens, the contract will automatically harvest CBC rewards for you!"
       }
     },
     {
@@ -243,7 +243,7 @@
     {
       "data": {
         "stringId": 380,
-        "text": "1 24K = 1 SYRUP"
+        "text": "1 CBC = 1 SYRUP"
       }
     },
     {
@@ -291,7 +291,7 @@
     {
       "data": {
         "stringId": 400,
-        "text": "SYRUP holders proportionally split 25% of 24K block emissions each day (10 24K per block), Rewards are distributed each block."
+        "text": "SYRUP holders proportionally split 25% of CBC block emissions each day (10 CBC per block), Rewards are distributed each block."
       }
     },
     {
@@ -351,13 +351,13 @@
     {
       "data": {
         "stringId": 424,
-        "text": "%num% 24K"
+        "text": "%num% CBC"
       }
     },
     {
       "data": {
         "stringId": 426,
-        "text": "Spend 24K to buy tickets, contributing to the lottery pot. Ticket purchases end approx. 30 minutes before lottery. Win prizes if 2, 3, or 4 of your ticket numbers match the winning numbers and their positions! Good luck!"
+        "text": "Spend CBC to buy tickets, contributing to the lottery pot. Ticket purchases end approx. 30 minutes before lottery. Win prizes if 2, 3, or 4 of your ticket numbers match the winning numbers and their positions! Good luck!"
       }
     },
     {
@@ -435,19 +435,19 @@
     {
       "data": {
         "stringId": 454,
-        "text": "%num% 24K Available"
+        "text": "%num% CBC Available"
       }
     },
     {
       "data": {
         "stringId": 456,
-        "text": "Your amount must be a multiple of 10 24K"
+        "text": "Your amount must be a multiple of 10 CBC"
       }
     },
     {
       "data": {
         "stringId": 458,
-        "text": "1 Ticket = 10 24K"
+        "text": "1 Ticket = 10 CBC"
       }
     },
     {
@@ -495,7 +495,7 @@
     {
       "data": {
         "stringId": 478,
-        "text": "Ticket purchases are final. Your 24K cannot be returned to you after buying tickets."
+        "text": "Ticket purchases are final. Your CBC cannot be returned to you after buying tickets."
       }
     },
     {
@@ -507,7 +507,7 @@
     {
       "data": {
         "stringId": 482,
-        "text": "24K prizes to be claimed"
+        "text": "CBC prizes to be claimed"
       }
     },
     {
@@ -543,13 +543,13 @@
     {
       "data": {
         "stringId": 494,
-        "text": "Approve 24K"
+        "text": "Approve CBC"
       }
     },
     {
       "data": {
         "stringId": 496,
-        "text": "SYRUP holders proportionally split 40% of 24K block emissions each day (10 24K per block), Rewards are distributed each block."
+        "text": "SYRUP holders proportionally split 40% of CBC block emissions each day (10 CBC per block), Rewards are distributed each block."
       }
     },
     {
@@ -567,19 +567,19 @@
     {
       "data": {
         "stringId": 504,
-        "text": "You\u2019ll pay for the new tokens using 24K-BNB LP tokens, which means you need to stake equal amounts of 24K and BNB in a liquidity pool to take part."
+        "text": "You\u2019ll pay for the new tokens using CBC-BNB LP tokens, which means you need to stake equal amounts of CBC and BNB in a liquidity pool to take part."
       }
     },
     {
       "data": {
         "stringId": 506,
-        "text": "Get 24K-BNB LP >"
+        "text": "Get CBC-BNB LP >"
       }
     },
     {
       "data": {
         "stringId": 508,
-        "text": "The project gets the BNB, 24K Swap burns the 24K."
+        "text": "The project gets the BNB, CBC Swap burns the CBC."
       }
     },
     {
@@ -597,7 +597,7 @@
     {
       "data": {
         "stringId": 514,
-        "text": "Launch your project with 24K Swap, Binance Smart Chain\u2019s most-used AMM project and liquidity provider, to bring your token directly to the most active and rapidly growing community on BSC."
+        "text": "Launch your project with CBC Swap, Binance Smart Chain\u2019s most-used AMM project and liquidity provider, to bring your token directly to the most active and rapidly growing community on BSC."
       }
     },
     {
@@ -645,7 +645,7 @@
     {
       "data": {
         "stringId": 534,
-        "text": "24K Stats"
+        "text": "CBC Stats"
       }
     },
     {
@@ -663,7 +663,7 @@
     {
       "data": {
         "stringId": 540,
-        "text": "New 24K\/block"
+        "text": "New CBC\/block"
       }
     },
     {
@@ -675,19 +675,19 @@
     {
       "data": {
         "stringId": 544,
-        "text": "24K to Harvest"
+        "text": "CBC to Harvest"
       }
     },
     {
       "data": {
         "stringId": 546,
-        "text": "24K in Wallet"
+        "text": "CBC in Wallet"
       }
     },
     {
       "data": {
         "stringId": 548,
-        "text": "Collecting 24K"
+        "text": "Collecting CBC"
       }
     },
     {
@@ -699,7 +699,7 @@
     {
       "data": {
         "stringId": 552,
-        "text": "24K to Collect"
+        "text": "CBC to Collect"
       }
     },
     {
@@ -753,7 +753,7 @@
     {
       "data": {
         "stringId": 576,
-        "text": "24K Swap"
+        "text": "CBC Swap"
       }
     },
     {
@@ -765,7 +765,7 @@
     {
       "data": {
         "stringId": 580,
-        "text": "Stake 24K to earn new tokens."
+        "text": "Stake CBC to earn new tokens."
       }
     },
     {
@@ -783,7 +783,7 @@
     {
       "data": {
         "stringId": 586,
-        "text": "24K to burn (USD)"
+        "text": "CBC to burn (USD)"
       }
     },
     {
@@ -795,7 +795,7 @@
     {
       "data": {
         "stringId": 590,
-        "text": "\u2b50\ufe0f Every time you stake and unstake LP tokens, the contract will automatically harvest 24K rewards for you!"
+        "text": "\u2b50\ufe0f Every time you stake and unstake LP tokens, the contract will automatically harvest CBC rewards for you!"
       }
     },
     {
@@ -813,13 +813,13 @@
     {
       "data": {
         "stringId": 596,
-        "text": "Buy 24K and BNB tokens"
+        "text": "Buy CBC and BNB tokens"
       }
     },
     {
       "data": {
         "stringId": 598,
-        "text": "Get 24K-BNB LP tokens by adding 24K and BNB liquidity"
+        "text": "Get CBC-BNB LP tokens by adding CBC and BNB liquidity"
       }
     },
     {
@@ -831,7 +831,7 @@
     {
       "data": {
         "stringId": 602,
-        "text": "While the sale is live, commit your 24K-LP tokens to buy the IFO tokens"
+        "text": "While the sale is live, commit your CBC-LP tokens to buy the IFO tokens"
       }
     },
     {
@@ -867,7 +867,7 @@
     {
       "data": {
         "stringId": 614,
-        "text": "Trade in for 24K, or keep for your collection!"
+        "text": "Trade in for CBC, or keep for your collection!"
       }
     },
     {
@@ -909,7 +909,7 @@
     {
       "data": {
         "stringId": 628,
-        "text": "When you trade in this NFT to receive 24K, you will lose access to it forever!"
+        "text": "When you trade in this NFT to receive CBC, you will lose access to it forever!"
       }
     },
     {
@@ -939,7 +939,7 @@
     {
       "data": {
         "stringId": 638,
-        "text": "Winners can trade in their NFTs for a 24K value until the expiry date written below. If you don't trade in your NFT by then, don\u2019t worry: you\u2019ll still keep it in your wallet!"
+        "text": "Winners can trade in their NFTs for a CBC value until the expiry date written below. If you don't trade in your NFT by then, don\u2019t worry: you\u2019ll still keep it in your wallet!"
       }
     },
     {
@@ -981,7 +981,7 @@
     {
       "data": {
         "stringId": 654,
-        "text": "Trade in for 24K"
+        "text": "Trade in for CBC"
       }
     },
     {
@@ -1107,7 +1107,7 @@
     {
       "data": {
         "stringId": 696,
-        "text": "Stake LP tokens to earn 24K"
+        "text": "Stake LP tokens to earn CBC"
       }
     },
     {
@@ -1149,13 +1149,13 @@
     {
       "data": {
         "stringId": 708,
-        "text": "The 24K Lottery"
+        "text": "The CBC Lottery"
       }
     },
     {
       "data": {
         "stringId": 710,
-        "text": "Buy tickets with 24K"
+        "text": "Buy tickets with CBC"
       }
     },
     {
@@ -1221,7 +1221,7 @@
     {
       "data": {
         "stringId": 10002,
-        "text": "Stake tokens to earn 24K"
+        "text": "Stake tokens to earn CBC"
       }
     },
     {

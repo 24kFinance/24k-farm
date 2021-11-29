@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Spinner } from '24testui'
+import { Spinner } from 'cbcuikit'
 import Page from './layout/Page'
 
 const Wrapper = styled(Page)`
